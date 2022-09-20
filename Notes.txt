@@ -3,3 +3,5 @@ Is there space for a nut on the back of the arm plate?
 How to attach the magnet? 
 The lever on the limit switches is slightly smaller than the ones in the lab. I'm not sure if the body is different, but the positioning should remain the same
 The modeled servo is probably not the one we will end up using
+Need to think about cable management. Could probably put a cable carrier on the top of the arm
+The motor mounting plate on the arm may be replaced with the one in the lab. It's larger and thus has more space for adding counterweights
