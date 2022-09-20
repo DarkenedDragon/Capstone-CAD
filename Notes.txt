@@ -1,5 +1,5 @@
 The tolerances on the lifting mechanism are way to tight
 Is there space for a nut on the back of the arm plate?
 How to attach the magnet? 
-Limit switches still need to be added
+The lever on the limit switches is slightly smaller than the ones in the lab. I'm not sure if the body is different, but the positioning should remain the same
 The modeled servo is probably not the one we will end up using
