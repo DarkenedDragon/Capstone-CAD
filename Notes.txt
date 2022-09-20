@@ -1,6 +1,7 @@
 The tolerances on the lifting mechanism are way to tight
 Is there space for a nut on the back of the arm plate?
 How to attach the magnet? 
+The pinion is not really attached to the servo. Its shaft is ~1mm larger than the screw hole on the servo. May need to 3D print the pinion to match the servo's groves
 The lever on the limit switches is slightly smaller than the ones in the lab. I'm not sure if the body is different, but the positioning should remain the same
 The modeled servo is probably not the one we will end up using
 Need to think about cable management. Could probably put a cable carrier on the top of the arm
