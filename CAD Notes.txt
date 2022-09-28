@@ -1,0 +1,18 @@
+- The tolerances on the lifting mechanism are way to tight (less so now)
+- Is there space for a nut on the back of the arm plate?
+- How to attach the magnet? - screwed into the rack? Could drill and tap the bottom of the rack and then use an M5 screw
+- The lever on the limit switches is slightly smaller than the ones in the lab. I'm not sure if the body is different, but the positioning should remain the same
+- Need to think about cable management. Could probably put a cable carrier on the top of the arm. Couldn't model it without straining my computer
+- The motor mounting plate on the arm may be replaced with the one in the lab. It's larger and thus has more space for adding counterweights
+- The piece lifiting mechanisim isn't very compliant
+- Manufacturing the rack could be hard. I was thinking we'd need to mill out the channels, but I need to talk to the people in Lacy to see if that's doable. 
+- I modeled an Openbuilds Nema 17 stepper for the lifter, but I found a smaller form factor on Sparkfun (https://www.sparkfun.com/products/9238)
+- The smaller stepper is in the Lifting-Mechansim-Stepper-Small assembly
+- I'd like to prototype the mount for the lifter. Would require ordering the rack and pinion from McMaster
+- I am assuming there is some sort of collar on the pinon, and it's just not modeled for simplistiy. I don't see any other way of doing the power transfer
+- The smaller stepper has a holding torque of 0.23 Nm according to its datasheet (https://www.sparkfun.com/datasheets/Robotics/SM-42BYG011-25.pdf), 
+which means 0.23 NM = F x 10mm => F = 2.3N. That's about 0.5 lbs. 
+- Openbuilds says the larger stepper has 76 oz*in of holding torque or about 0.5 Nm. That's enough to support 5N or 1.1 lbs. That should be enough? 
+I'm not sure how much the magnet + rack would weigh. This is at 24 volts
+- Linear stepper motors are WAY too expensive, and lead screws need a lot of extra support
+- The rack is long enough for both pawns and the king
